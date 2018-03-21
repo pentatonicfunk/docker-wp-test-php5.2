@@ -1,0 +1,48 @@
+# Originally for wp plugin phpunit tests
+## Available packages
+- Multi PHP version using phpbrew : <http://phpbrew.github.io/phpbrew/>
+- PHP [5.2.17]
+    - Default Installed Extension
+        - bcmath
+        - bz2
+        - calendar   
+        - cli
+        - ctype
+        - curl
+        - dom
+        - fileinfo
+        - filter
+        - gd
+        - gettext
+        - icu
+        - imap
+        - ipc
+        - json
+        - mbregex
+        - mbstring
+        - mcrypt
+        - mhash
+        - mysql
+        - opcache
+        - pcntl
+        - pcre
+        - pdo
+        - pear
+        - phar
+        - posix
+        - readline
+        - soap
+        - sockets
+        - tokenizer
+        - xml
+        - zip
+    - Versions :
+        - 5.2.17
+- PHPunit
+    - 3.6 for PHP version 5.2
+- nodejs : v8.10.0
+- npm : v5.6.0
+- sass : v3.4.23
+- mysql: 10.1.26-MariaDB
+- phpunit script
+    - phpunit -c tests/phpunit.xml

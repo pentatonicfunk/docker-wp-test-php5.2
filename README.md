@@ -1,5 +1,7 @@
-# Originally for wp plugin phpunit tests
-## Available packages
+[![Docker Pulls](https://img.shields.io/docker/pulls/pentatonicfunk/wp-test-php5.2.17-phpunit-3.6.svg)](https://hub.docker.com/r/pentatonicfunk/wp-test-php5.2.17-phpunit-3.6/)
+
+## Originally for wp plugin phpunit tests
+# Available packages
 - Multi PHP version using phpbrew : <http://phpbrew.github.io/phpbrew/>
 - PHP [5.2.17]
     - Default Installed Extension
